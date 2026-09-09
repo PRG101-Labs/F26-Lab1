@@ -4,7 +4,7 @@
 # Author:
 # Date:
 # Purpose: Use arithmetic in python.
-# Usage: pthon3 lab1b.py
+# Usage: python3 lab1b.py
 
 # TO-DO 1:
 #	Create a variable called "num1", take its value from user.
