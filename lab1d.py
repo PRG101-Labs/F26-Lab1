@@ -5,7 +5,7 @@
 # Author:
 # Date:
 # Purpose: Use string methods and f-string formating.
-# Usage: ./lab1d.py
+# Usage: python3 lab1d.py
 
 #TO-DO 1:
 #	Create a variable called "name" and assign it the value of your name.
