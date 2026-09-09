@@ -5,7 +5,7 @@
 # Author:
 # Date:
 # Purpose: Use string methods and f-string formating.
-# Usage: ./lab1c.py
+# Usage: python3 lab1c.py
 
 #TO-DO 1:
 # import math module.
