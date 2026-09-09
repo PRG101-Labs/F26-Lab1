@@ -4,7 +4,7 @@
 # Author:
 # Date:
 # Purpose: Create a variable, check its type and print the variable.
-# Usage: pthon3 lab1a.py
+# Usage: python3 lab1a.py
 
 # TO DO 1: Creating and using varibales
 # create a variable called message.
