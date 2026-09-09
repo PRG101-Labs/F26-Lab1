@@ -1,6 +1,6 @@
 # Lab1
 # Submission Details
-In this lab you will create five simple scripts. Write the scripts in JupyterLab. 
+In this lab you will create five simple scripts. Write the scripts in Jupyter Lab or Codespaces. 
 Please note that you must complete the lab during the class hours and show your progress to the professor to receive the marks for the lab.
 
 # Lab Objectives
